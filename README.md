@@ -155,7 +155,7 @@ Jalankan lokal: buka `index.html` di browser (tidak perlu instalasi).
 
 Deploy dengan GitHub Pages: **Settings, Pages, Deploy from a branch, branch `main`, folder `/ (root)`**, lalu simpan. Setelah selesai, tulis tautannya di bawah.
 
-- Demo: _(isi tautan GitHub Pages di sini setelah deploy)_
+- Demo: https://kurniaa13.github.io/mytelkomsel-prd-only/
 
 ## Sumber
 
